@@ -1,0 +1,30 @@
+C:\Users\chiara.agnello\Desktop\MATERIALE STUDIO\DesignPattern\DesignPattern.Esempio1\DesignPattern.StrategyPattern.Esempio2Duck\bin\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.exe
+C:\Users\chiara.agnello\Desktop\MATERIALE STUDIO\DesignPattern\DesignPattern.Esempio1\DesignPattern.StrategyPattern.Esempio2Duck\bin\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.deps.json
+C:\Users\chiara.agnello\Desktop\MATERIALE STUDIO\DesignPattern\DesignPattern.Esempio1\DesignPattern.StrategyPattern.Esempio2Duck\bin\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.runtimeconfig.json
+C:\Users\chiara.agnello\Desktop\MATERIALE STUDIO\DesignPattern\DesignPattern.Esempio1\DesignPattern.StrategyPattern.Esempio2Duck\bin\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.dll
+C:\Users\chiara.agnello\Desktop\MATERIALE STUDIO\DesignPattern\DesignPattern.Esempio1\DesignPattern.StrategyPattern.Esempio2Duck\bin\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.pdb
+C:\Users\chiara.agnello\Desktop\MATERIALE STUDIO\DesignPattern\DesignPattern.Esempio1\DesignPattern.StrategyPattern.Esempio2Duck\obj\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.csproj.AssemblyReference.cache
+C:\Users\chiara.agnello\Desktop\MATERIALE STUDIO\DesignPattern\DesignPattern.Esempio1\DesignPattern.StrategyPattern.Esempio2Duck\obj\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiara.agnello\Desktop\MATERIALE STUDIO\DesignPattern\DesignPattern.Esempio1\DesignPattern.StrategyPattern.Esempio2Duck\obj\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.AssemblyInfoInputs.cache
+C:\Users\chiara.agnello\Desktop\MATERIALE STUDIO\DesignPattern\DesignPattern.Esempio1\DesignPattern.StrategyPattern.Esempio2Duck\obj\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.AssemblyInfo.cs
+C:\Users\chiara.agnello\Desktop\MATERIALE STUDIO\DesignPattern\DesignPattern.Esempio1\DesignPattern.StrategyPattern.Esempio2Duck\obj\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.csproj.CoreCompileInputs.cache
+C:\Users\chiara.agnello\Desktop\MATERIALE STUDIO\DesignPattern\DesignPattern.Esempio1\DesignPattern.StrategyPattern.Esempio2Duck\obj\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.dll
+C:\Users\chiara.agnello\Desktop\MATERIALE STUDIO\DesignPattern\DesignPattern.Esempio1\DesignPattern.StrategyPattern.Esempio2Duck\obj\Debug\net6.0\refint\DesignPattern.StrategyPattern.Esempio2Duck.dll
+C:\Users\chiara.agnello\Desktop\MATERIALE STUDIO\DesignPattern\DesignPattern.Esempio1\DesignPattern.StrategyPattern.Esempio2Duck\obj\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.pdb
+C:\Users\chiara.agnello\Desktop\MATERIALE STUDIO\DesignPattern\DesignPattern.Esempio1\DesignPattern.StrategyPattern.Esempio2Duck\obj\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.genruntimeconfig.cache
+C:\Users\chiara.agnello\Desktop\MATERIALE STUDIO\DesignPattern\DesignPattern.Esempio1\DesignPattern.StrategyPattern.Esempio2Duck\obj\Debug\net6.0\ref\DesignPattern.StrategyPattern.Esempio2Duck.dll
+C:\Users\federico.babbini\Desktop\OOP\DesignPattern.StrategyPattern.Esempio2Duck\obj\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.csproj.AssemblyReference.cache
+C:\Users\federico.babbini\Desktop\OOP\DesignPattern.StrategyPattern.Esempio2Duck\obj\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.babbini\Desktop\OOP\DesignPattern.StrategyPattern.Esempio2Duck\obj\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.AssemblyInfoInputs.cache
+C:\Users\federico.babbini\Desktop\OOP\DesignPattern.StrategyPattern.Esempio2Duck\obj\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.AssemblyInfo.cs
+C:\Users\federico.babbini\Desktop\OOP\DesignPattern.StrategyPattern.Esempio2Duck\obj\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.csproj.CoreCompileInputs.cache
+C:\Users\federico.babbini\Desktop\OOP\DesignPattern.StrategyPattern.Esempio2Duck\obj\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.dll
+C:\Users\federico.babbini\Desktop\OOP\DesignPattern.StrategyPattern.Esempio2Duck\obj\Debug\net6.0\refint\DesignPattern.StrategyPattern.Esempio2Duck.dll
+C:\Users\federico.babbini\Desktop\OOP\DesignPattern.StrategyPattern.Esempio2Duck\obj\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.pdb
+C:\Users\federico.babbini\Desktop\OOP\DesignPattern.StrategyPattern.Esempio2Duck\bin\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.exe
+C:\Users\federico.babbini\Desktop\OOP\DesignPattern.StrategyPattern.Esempio2Duck\bin\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.deps.json
+C:\Users\federico.babbini\Desktop\OOP\DesignPattern.StrategyPattern.Esempio2Duck\bin\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.runtimeconfig.json
+C:\Users\federico.babbini\Desktop\OOP\DesignPattern.StrategyPattern.Esempio2Duck\bin\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.dll
+C:\Users\federico.babbini\Desktop\OOP\DesignPattern.StrategyPattern.Esempio2Duck\bin\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.pdb
+C:\Users\federico.babbini\Desktop\OOP\DesignPattern.StrategyPattern.Esempio2Duck\obj\Debug\net6.0\DesignPattern.StrategyPattern.Esempio2Duck.genruntimeconfig.cache
+C:\Users\federico.babbini\Desktop\OOP\DesignPattern.StrategyPattern.Esempio2Duck\obj\Debug\net6.0\ref\DesignPattern.StrategyPattern.Esempio2Duck.dll
