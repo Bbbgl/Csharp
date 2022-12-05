@@ -1,0 +1,15 @@
+C:\Users\federico.babbini\Desktop\OOP & .Net\Esercizio2\Esercizio2\bin\Debug\net6.0\Esercizio2.exe
+C:\Users\federico.babbini\Desktop\OOP & .Net\Esercizio2\Esercizio2\bin\Debug\net6.0\Esercizio2.deps.json
+C:\Users\federico.babbini\Desktop\OOP & .Net\Esercizio2\Esercizio2\bin\Debug\net6.0\Esercizio2.runtimeconfig.json
+C:\Users\federico.babbini\Desktop\OOP & .Net\Esercizio2\Esercizio2\bin\Debug\net6.0\Esercizio2.dll
+C:\Users\federico.babbini\Desktop\OOP & .Net\Esercizio2\Esercizio2\bin\Debug\net6.0\Esercizio2.pdb
+C:\Users\federico.babbini\Desktop\OOP & .Net\Esercizio2\Esercizio2\obj\Debug\net6.0\Esercizio2.csproj.AssemblyReference.cache
+C:\Users\federico.babbini\Desktop\OOP & .Net\Esercizio2\Esercizio2\obj\Debug\net6.0\Esercizio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.babbini\Desktop\OOP & .Net\Esercizio2\Esercizio2\obj\Debug\net6.0\Esercizio2.AssemblyInfoInputs.cache
+C:\Users\federico.babbini\Desktop\OOP & .Net\Esercizio2\Esercizio2\obj\Debug\net6.0\Esercizio2.AssemblyInfo.cs
+C:\Users\federico.babbini\Desktop\OOP & .Net\Esercizio2\Esercizio2\obj\Debug\net6.0\Esercizio2.csproj.CoreCompileInputs.cache
+C:\Users\federico.babbini\Desktop\OOP & .Net\Esercizio2\Esercizio2\obj\Debug\net6.0\Esercizio2.dll
+C:\Users\federico.babbini\Desktop\OOP & .Net\Esercizio2\Esercizio2\obj\Debug\net6.0\refint\Esercizio2.dll
+C:\Users\federico.babbini\Desktop\OOP & .Net\Esercizio2\Esercizio2\obj\Debug\net6.0\Esercizio2.pdb
+C:\Users\federico.babbini\Desktop\OOP & .Net\Esercizio2\Esercizio2\obj\Debug\net6.0\Esercizio2.genruntimeconfig.cache
+C:\Users\federico.babbini\Desktop\OOP & .Net\Esercizio2\Esercizio2\obj\Debug\net6.0\ref\Esercizio2.dll
