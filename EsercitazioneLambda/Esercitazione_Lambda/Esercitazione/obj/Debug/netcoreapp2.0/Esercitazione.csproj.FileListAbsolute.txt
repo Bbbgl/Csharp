@@ -1,0 +1,13 @@
+C:\Users\federico.babbini\Desktop\OOP\EserciziTeams\Esercizi\LINQ\EsercitazioneLambda\Esercitazione_Lambda\Esercitazione\bin\Debug\netcoreapp2.0\Esercitazione.deps.json
+C:\Users\federico.babbini\Desktop\OOP\EserciziTeams\Esercizi\LINQ\EsercitazioneLambda\Esercitazione_Lambda\Esercitazione\bin\Debug\netcoreapp2.0\Esercitazione.runtimeconfig.json
+C:\Users\federico.babbini\Desktop\OOP\EserciziTeams\Esercizi\LINQ\EsercitazioneLambda\Esercitazione_Lambda\Esercitazione\bin\Debug\netcoreapp2.0\Esercitazione.runtimeconfig.dev.json
+C:\Users\federico.babbini\Desktop\OOP\EserciziTeams\Esercizi\LINQ\EsercitazioneLambda\Esercitazione_Lambda\Esercitazione\bin\Debug\netcoreapp2.0\Esercitazione.dll
+C:\Users\federico.babbini\Desktop\OOP\EserciziTeams\Esercizi\LINQ\EsercitazioneLambda\Esercitazione_Lambda\Esercitazione\bin\Debug\netcoreapp2.0\Esercitazione.pdb
+C:\Users\federico.babbini\Desktop\OOP\EserciziTeams\Esercizi\LINQ\EsercitazioneLambda\Esercitazione_Lambda\Esercitazione\obj\Debug\netcoreapp2.0\Esercitazione.csproj.AssemblyReference.cache
+C:\Users\federico.babbini\Desktop\OOP\EserciziTeams\Esercizi\LINQ\EsercitazioneLambda\Esercitazione_Lambda\Esercitazione\obj\Debug\netcoreapp2.0\Esercitazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.babbini\Desktop\OOP\EserciziTeams\Esercizi\LINQ\EsercitazioneLambda\Esercitazione_Lambda\Esercitazione\obj\Debug\netcoreapp2.0\Esercitazione.AssemblyInfoInputs.cache
+C:\Users\federico.babbini\Desktop\OOP\EserciziTeams\Esercizi\LINQ\EsercitazioneLambda\Esercitazione_Lambda\Esercitazione\obj\Debug\netcoreapp2.0\Esercitazione.AssemblyInfo.cs
+C:\Users\federico.babbini\Desktop\OOP\EserciziTeams\Esercizi\LINQ\EsercitazioneLambda\Esercitazione_Lambda\Esercitazione\obj\Debug\netcoreapp2.0\Esercitazione.csproj.CoreCompileInputs.cache
+C:\Users\federico.babbini\Desktop\OOP\EserciziTeams\Esercizi\LINQ\EsercitazioneLambda\Esercitazione_Lambda\Esercitazione\obj\Debug\netcoreapp2.0\Esercitazione.dll
+C:\Users\federico.babbini\Desktop\OOP\EserciziTeams\Esercizi\LINQ\EsercitazioneLambda\Esercitazione_Lambda\Esercitazione\obj\Debug\netcoreapp2.0\Esercitazione.pdb
+C:\Users\federico.babbini\Desktop\OOP\EserciziTeams\Esercizi\LINQ\EsercitazioneLambda\Esercitazione_Lambda\Esercitazione\obj\Debug\netcoreapp2.0\Esercitazione.genruntimeconfig.cache
