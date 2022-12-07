@@ -60,22 +60,49 @@ namespace Esercitazione
                 new Prenotazione { IdStudente = 1, Data = new DateTime(2021, 03, 02), IdPasto = 9},
             };
 
+            
             var queryAntipasto = pasti.Where(tipoPasto => tipoPasto.Tipo == eTipoPasto.Antipasto)
-                                  .OrderByDescending(e => e.Nome)
+                                  //.OrderByDescending(e => e.Nome)
                                   .Select(e => e);
 
-            foreach (var pasto in queryAntipasto)
-            {
-                Console.WriteLine(pasto.Nome);
-            }
+           
 
             var queryPrimo = pasti.Where(tipoPasto => tipoPasto.Tipo == eTipoPasto.Primo)
-                                 .OrderByDescending(e => e.Nome)
+                                 //.OrderByDescending(e => e.Nome)
                                  .Select(e => e);
 
-            foreach (var pasto in queryPrimo)
+            var querySecondo = pasti.Where(tipoPasto => tipoPasto.Tipo == eTipoPasto.Secondo)
+                                //.OrderByDescending(e => e.Nome)
+                                .Select(e => e);
+
+            var queryDolce = pasti.Where(tipoPasto => tipoPasto.Tipo == eTipoPasto.Dolce)
+                                /*.OrderByDescending(e => e.Nome)*/
+                                .Select(e => e);
+
+
+            var menu = from antipasto in queryAntipasto
+                                      from primo in queryPrimo
+                                      from secondo in querySecondo
+                                      from dolce in queryDolce
+                                      select new Pasto
+                                      {
+
+                                          Nome = $"{antipasto.Nome}  {primo.Nome}  {secondo.Nome}  {dolce.Nome}",
+                                          Peso = antipasto.Peso + primo.Peso + secondo.Peso + dolce.Peso,
+
+
+                                      };
+
+          
+
+            var  balacedMenu = menu.Where(e => e.Peso >= 0.9 && e.Peso <= 1.2)
+                .Select(e =>e.Nome + e.Peso);
+
+             /*.Take(1) to take only one menu*/
+
+            foreach (var piatti in balacedMenu)
             {
-                Console.WriteLine(pasto.Nome);
+                Console.WriteLine($"{piatti}");
             }
 
 
