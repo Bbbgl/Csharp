@@ -1,0 +1,19 @@
+<Library>
+
+  <Users>
+    <User UserId="1" Role="Admin" Username="administrator" Password="admin1"></User>
+    <User UserId="2" Role="User" Username="bob" Password="userBob"></User>
+    <User UserId="3" Role="User" Username="alice" Password="userAlice"></User>
+  </Users>
+
+  <Books>
+    <Book BookId="" Title="" AuthorName="" AuthorSurname="" Publisher="" Quantity=""></Book>
+    <Book BookId="" Title="" AuthorName="" AuthorSurname="" Publisher="" Quantity=""></Book>
+  </Books>
+
+  <Reservations>
+    <Reservation ReservationId="" BookId="" UserId="" StartDate="" EndDate=""></Reservation>
+    <Reservation ReservationId="" BookId="" UserId="" StartDate="" EndDate=""></Reservation>
+  </Reservations>
+
+</Library>

@@ -1,0 +1,6 @@
+C:\Users\a.maxia\source\repos\Solution.Library\DataAccessLayer.Library\bin\Debug\DataAccessLayer.Library.dll
+C:\Users\a.maxia\source\repos\Solution.Library\DataAccessLayer.Library\bin\Debug\DataAccessLayer.Library.pdb
+C:\Users\a.maxia\source\repos\Solution.Library\DataAccessLayer.Library\obj\Debug\DataAccessLayer.Library.csprojAssemblyReference.cache
+C:\Users\a.maxia\source\repos\Solution.Library\DataAccessLayer.Library\obj\Debug\DataAccessLayer.Library.csproj.CoreCompileInputs.cache
+C:\Users\a.maxia\source\repos\Solution.Library\DataAccessLayer.Library\obj\Debug\DataAccessLayer.Library.dll
+C:\Users\a.maxia\source\repos\Solution.Library\DataAccessLayer.Library\obj\Debug\DataAccessLayer.Library.pdb

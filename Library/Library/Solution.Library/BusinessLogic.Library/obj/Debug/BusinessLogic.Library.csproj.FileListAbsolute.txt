@@ -1,0 +1,6 @@
+C:\Users\a.maxia\source\repos\Solution.Library\BusinessLogic.Library\bin\Debug\BusinessLogic.Library.dll
+C:\Users\a.maxia\source\repos\Solution.Library\BusinessLogic.Library\bin\Debug\BusinessLogic.Library.pdb
+C:\Users\a.maxia\source\repos\Solution.Library\BusinessLogic.Library\obj\Debug\BusinessLogic.Library.csprojAssemblyReference.cache
+C:\Users\a.maxia\source\repos\Solution.Library\BusinessLogic.Library\obj\Debug\BusinessLogic.Library.csproj.CoreCompileInputs.cache
+C:\Users\a.maxia\source\repos\Solution.Library\BusinessLogic.Library\obj\Debug\BusinessLogic.Library.dll
+C:\Users\a.maxia\source\repos\Solution.Library\BusinessLogic.Library\obj\Debug\BusinessLogic.Library.pdb

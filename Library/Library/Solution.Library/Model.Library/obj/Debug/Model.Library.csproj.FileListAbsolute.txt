@@ -1,0 +1,6 @@
+C:\Users\a.maxia\source\repos\Solution.Library\Model.Library\bin\Debug\Model.Library.dll
+C:\Users\a.maxia\source\repos\Solution.Library\Model.Library\bin\Debug\Model.Library.pdb
+C:\Users\a.maxia\source\repos\Solution.Library\Model.Library\obj\Debug\Model.Library.csprojAssemblyReference.cache
+C:\Users\a.maxia\source\repos\Solution.Library\Model.Library\obj\Debug\Model.Library.csproj.CoreCompileInputs.cache
+C:\Users\a.maxia\source\repos\Solution.Library\Model.Library\obj\Debug\Model.Library.dll
+C:\Users\a.maxia\source\repos\Solution.Library\Model.Library\obj\Debug\Model.Library.pdb

@@ -1,0 +1,8 @@
+C:\Users\federico.babbini\Desktop\OOP\ProgettoBiblioteca\Library\Library\Solution.Library\ConsoleApp.Library\bin\Debug\ConsoleApp.Library.exe.config
+C:\Users\federico.babbini\Desktop\OOP\ProgettoBiblioteca\Library\Library\Solution.Library\ConsoleApp.Library\bin\Debug\ConsoleApp.Library.exe
+C:\Users\federico.babbini\Desktop\OOP\ProgettoBiblioteca\Library\Library\Solution.Library\ConsoleApp.Library\bin\Debug\ConsoleApp.Library.pdb
+C:\Users\federico.babbini\Desktop\OOP\ProgettoBiblioteca\Library\Library\Solution.Library\ConsoleApp.Library\obj\Debug\ConsoleApp.Library.csproj.AssemblyReference.cache
+C:\Users\federico.babbini\Desktop\OOP\ProgettoBiblioteca\Library\Library\Solution.Library\ConsoleApp.Library\obj\Debug\ConsoleApp.Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\federico.babbini\Desktop\OOP\ProgettoBiblioteca\Library\Library\Solution.Library\ConsoleApp.Library\obj\Debug\ConsoleApp.Library.csproj.CoreCompileInputs.cache
+C:\Users\federico.babbini\Desktop\OOP\ProgettoBiblioteca\Library\Library\Solution.Library\ConsoleApp.Library\obj\Debug\ConsoleApp.Library.exe
+C:\Users\federico.babbini\Desktop\OOP\ProgettoBiblioteca\Library\Library\Solution.Library\ConsoleApp.Library\obj\Debug\ConsoleApp.Library.pdb
