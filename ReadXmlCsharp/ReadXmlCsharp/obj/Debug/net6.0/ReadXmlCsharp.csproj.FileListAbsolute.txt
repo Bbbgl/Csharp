@@ -1,0 +1,15 @@
+C:\Users\federico.babbini\Desktop\OOP\Esercizio3\ReadXmlCsharp\ReadXmlCsharp\bin\Debug\net6.0\ReadXmlCsharp.exe
+C:\Users\federico.babbini\Desktop\OOP\Esercizio3\ReadXmlCsharp\ReadXmlCsharp\bin\Debug\net6.0\ReadXmlCsharp.deps.json
+C:\Users\federico.babbini\Desktop\OOP\Esercizio3\ReadXmlCsharp\ReadXmlCsharp\bin\Debug\net6.0\ReadXmlCsharp.runtimeconfig.json
+C:\Users\federico.babbini\Desktop\OOP\Esercizio3\ReadXmlCsharp\ReadXmlCsharp\bin\Debug\net6.0\ReadXmlCsharp.dll
+C:\Users\federico.babbini\Desktop\OOP\Esercizio3\ReadXmlCsharp\ReadXmlCsharp\bin\Debug\net6.0\ReadXmlCsharp.pdb
+C:\Users\federico.babbini\Desktop\OOP\Esercizio3\ReadXmlCsharp\ReadXmlCsharp\obj\Debug\net6.0\ReadXmlCsharp.csproj.AssemblyReference.cache
+C:\Users\federico.babbini\Desktop\OOP\Esercizio3\ReadXmlCsharp\ReadXmlCsharp\obj\Debug\net6.0\ReadXmlCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.babbini\Desktop\OOP\Esercizio3\ReadXmlCsharp\ReadXmlCsharp\obj\Debug\net6.0\ReadXmlCsharp.AssemblyInfoInputs.cache
+C:\Users\federico.babbini\Desktop\OOP\Esercizio3\ReadXmlCsharp\ReadXmlCsharp\obj\Debug\net6.0\ReadXmlCsharp.AssemblyInfo.cs
+C:\Users\federico.babbini\Desktop\OOP\Esercizio3\ReadXmlCsharp\ReadXmlCsharp\obj\Debug\net6.0\ReadXmlCsharp.csproj.CoreCompileInputs.cache
+C:\Users\federico.babbini\Desktop\OOP\Esercizio3\ReadXmlCsharp\ReadXmlCsharp\obj\Debug\net6.0\ReadXmlCsharp.dll
+C:\Users\federico.babbini\Desktop\OOP\Esercizio3\ReadXmlCsharp\ReadXmlCsharp\obj\Debug\net6.0\refint\ReadXmlCsharp.dll
+C:\Users\federico.babbini\Desktop\OOP\Esercizio3\ReadXmlCsharp\ReadXmlCsharp\obj\Debug\net6.0\ReadXmlCsharp.pdb
+C:\Users\federico.babbini\Desktop\OOP\Esercizio3\ReadXmlCsharp\ReadXmlCsharp\obj\Debug\net6.0\ReadXmlCsharp.genruntimeconfig.cache
+C:\Users\federico.babbini\Desktop\OOP\Esercizio3\ReadXmlCsharp\ReadXmlCsharp\obj\Debug\net6.0\ref\ReadXmlCsharp.dll
