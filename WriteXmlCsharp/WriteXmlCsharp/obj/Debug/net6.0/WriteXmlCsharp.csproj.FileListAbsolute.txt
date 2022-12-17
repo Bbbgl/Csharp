@@ -1,0 +1,15 @@
+C:\Users\federico.babbini\Desktop\OOP\WriteXmlCsharp\WriteXmlCsharp\bin\Debug\net6.0\WriteXmlCsharp.exe
+C:\Users\federico.babbini\Desktop\OOP\WriteXmlCsharp\WriteXmlCsharp\bin\Debug\net6.0\WriteXmlCsharp.deps.json
+C:\Users\federico.babbini\Desktop\OOP\WriteXmlCsharp\WriteXmlCsharp\bin\Debug\net6.0\WriteXmlCsharp.runtimeconfig.json
+C:\Users\federico.babbini\Desktop\OOP\WriteXmlCsharp\WriteXmlCsharp\bin\Debug\net6.0\WriteXmlCsharp.dll
+C:\Users\federico.babbini\Desktop\OOP\WriteXmlCsharp\WriteXmlCsharp\bin\Debug\net6.0\WriteXmlCsharp.pdb
+C:\Users\federico.babbini\Desktop\OOP\WriteXmlCsharp\WriteXmlCsharp\obj\Debug\net6.0\WriteXmlCsharp.csproj.AssemblyReference.cache
+C:\Users\federico.babbini\Desktop\OOP\WriteXmlCsharp\WriteXmlCsharp\obj\Debug\net6.0\WriteXmlCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.babbini\Desktop\OOP\WriteXmlCsharp\WriteXmlCsharp\obj\Debug\net6.0\WriteXmlCsharp.AssemblyInfoInputs.cache
+C:\Users\federico.babbini\Desktop\OOP\WriteXmlCsharp\WriteXmlCsharp\obj\Debug\net6.0\WriteXmlCsharp.AssemblyInfo.cs
+C:\Users\federico.babbini\Desktop\OOP\WriteXmlCsharp\WriteXmlCsharp\obj\Debug\net6.0\WriteXmlCsharp.csproj.CoreCompileInputs.cache
+C:\Users\federico.babbini\Desktop\OOP\WriteXmlCsharp\WriteXmlCsharp\obj\Debug\net6.0\WriteXmlCsharp.dll
+C:\Users\federico.babbini\Desktop\OOP\WriteXmlCsharp\WriteXmlCsharp\obj\Debug\net6.0\refint\WriteXmlCsharp.dll
+C:\Users\federico.babbini\Desktop\OOP\WriteXmlCsharp\WriteXmlCsharp\obj\Debug\net6.0\WriteXmlCsharp.pdb
+C:\Users\federico.babbini\Desktop\OOP\WriteXmlCsharp\WriteXmlCsharp\obj\Debug\net6.0\WriteXmlCsharp.genruntimeconfig.cache
+C:\Users\federico.babbini\Desktop\OOP\WriteXmlCsharp\WriteXmlCsharp\obj\Debug\net6.0\ref\WriteXmlCsharp.dll
