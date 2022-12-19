@@ -1,0 +1,15 @@
+C:\Users\federico.babbini\Desktop\OOP\ModifyXmlCsharp\ModifyXmlCsharp\ModifyXmlCsharp\bin\Debug\net6.0\ModifyXmlCsharp.exe
+C:\Users\federico.babbini\Desktop\OOP\ModifyXmlCsharp\ModifyXmlCsharp\ModifyXmlCsharp\bin\Debug\net6.0\ModifyXmlCsharp.deps.json
+C:\Users\federico.babbini\Desktop\OOP\ModifyXmlCsharp\ModifyXmlCsharp\ModifyXmlCsharp\bin\Debug\net6.0\ModifyXmlCsharp.runtimeconfig.json
+C:\Users\federico.babbini\Desktop\OOP\ModifyXmlCsharp\ModifyXmlCsharp\ModifyXmlCsharp\bin\Debug\net6.0\ModifyXmlCsharp.dll
+C:\Users\federico.babbini\Desktop\OOP\ModifyXmlCsharp\ModifyXmlCsharp\ModifyXmlCsharp\bin\Debug\net6.0\ModifyXmlCsharp.pdb
+C:\Users\federico.babbini\Desktop\OOP\ModifyXmlCsharp\ModifyXmlCsharp\ModifyXmlCsharp\obj\Debug\net6.0\ModifyXmlCsharp.csproj.AssemblyReference.cache
+C:\Users\federico.babbini\Desktop\OOP\ModifyXmlCsharp\ModifyXmlCsharp\ModifyXmlCsharp\obj\Debug\net6.0\ModifyXmlCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.babbini\Desktop\OOP\ModifyXmlCsharp\ModifyXmlCsharp\ModifyXmlCsharp\obj\Debug\net6.0\ModifyXmlCsharp.AssemblyInfoInputs.cache
+C:\Users\federico.babbini\Desktop\OOP\ModifyXmlCsharp\ModifyXmlCsharp\ModifyXmlCsharp\obj\Debug\net6.0\ModifyXmlCsharp.AssemblyInfo.cs
+C:\Users\federico.babbini\Desktop\OOP\ModifyXmlCsharp\ModifyXmlCsharp\ModifyXmlCsharp\obj\Debug\net6.0\ModifyXmlCsharp.csproj.CoreCompileInputs.cache
+C:\Users\federico.babbini\Desktop\OOP\ModifyXmlCsharp\ModifyXmlCsharp\ModifyXmlCsharp\obj\Debug\net6.0\ModifyXmlCsharp.dll
+C:\Users\federico.babbini\Desktop\OOP\ModifyXmlCsharp\ModifyXmlCsharp\ModifyXmlCsharp\obj\Debug\net6.0\refint\ModifyXmlCsharp.dll
+C:\Users\federico.babbini\Desktop\OOP\ModifyXmlCsharp\ModifyXmlCsharp\ModifyXmlCsharp\obj\Debug\net6.0\ModifyXmlCsharp.pdb
+C:\Users\federico.babbini\Desktop\OOP\ModifyXmlCsharp\ModifyXmlCsharp\ModifyXmlCsharp\obj\Debug\net6.0\ModifyXmlCsharp.genruntimeconfig.cache
+C:\Users\federico.babbini\Desktop\OOP\ModifyXmlCsharp\ModifyXmlCsharp\ModifyXmlCsharp\obj\Debug\net6.0\ref\ModifyXmlCsharp.dll
