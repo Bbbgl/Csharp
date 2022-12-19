@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+
 
 using System.Xml;
 
@@ -54,7 +54,7 @@ namespace ConsoleApp.Library
             {
                 if (userNodes[i].Attributes["Username"].Value =="bob")//trovo il libro con quel titolo, ho già controllato che è già presente
                 {// qua dovrei fare in modo di scrivere nel database la nuova quantità
-                    userNodes[i].Attributes["Username"].Value = "modyfied username";
+                    userNodes[i].Attributes["Username"].Value = "modified username";
                     break;
                 }
             }
