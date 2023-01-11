@@ -1,0 +1,4 @@
+The problem here is to find a solution for matching a database of books with a book-view-model.
+The user need to reserve a book, but there is no way to know the Id of the book for her/him.
+
+We need the viewmodel to take the reference of the id
